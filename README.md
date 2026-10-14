@@ -11,5 +11,8 @@
 
 ## Technology Interests
 - Game Development
-- ray tracing 
+- ray tracing
+
+## Skills
+- C Language
 
