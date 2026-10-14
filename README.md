@@ -11,4 +11,5 @@
 
 ## Technology Interests
 - Game Development
+- ray tracing 
 
