@@ -6,6 +6,8 @@
 
 ## My Learning Goals
 - Build a personal website
+- Build a game
+- Learning english
 
 ## Technology Interests
 - Game Development
